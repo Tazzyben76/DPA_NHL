@@ -49,32 +49,32 @@ Design Principles
 1) Overview
 League standings using official NHL points rules:
 Performance metrics normalized per 60 minutes of TOI (time on ice)   
-<img src="Images/PBIX Pg 1.jpg" width="32%" />
+  <img src="Images/PBIX Pg 1.jpg" width="32%" />
 
 
 2) Team Stats
 Team-level performance metrics
 Comparison of offensive output vs defensive pressure  
-<img src="Images/PBIX Pg 2.jpg" width="32%" />
+  <img src="Images/PBIX Pg 2.jpg" width="32%" />
 
 3) Skater Stats
 Player performance normalized per 60 mins TOI
 Scoring efficiency vs shot volume comparison  
-<img src="Images/PBIX Pg 3.jpg" width="32%" />
+  <img src="Images/PBIX Pg 3.jpg" width="32%" />
 
 4) Goalie Stats
 Goalie metrics normalized per 60 mins ice time
 Save efficiency vs defensive workload comparison  
-<img src="Images/PBIX Pg 4.jpg" width="32%" />
+  <img src="Images/PBIX Pg 4.jpg" width="32%" />
 
 5) League Trend
 League-wide scoring, shot volume, and efficiency trends over time
 Highlights shifts in play style and structural changes across eras   
-<img src="Images/PBIX Pg 5.jpg" width="32%" />
+  <img src="Images/PBIX Pg 5.jpg" width="32%" />
 
 #### Machine Learning Proof of Concept (Additional Exploration)
 A small Machine Learning POC was tested to predict outcomes, where we observed:
 Predicted probabilities clustered near 0 or 1 (model was confident distinguishing winners/losers)
 Earlier low-probability issues were linked to large input scale, addressed through scaling considerations   
-<img src="Images/Machine Learning.jpg" width="32%" />
+  <img src="Images/Machine Learning.jpg" width="32%" />
 
