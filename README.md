@@ -3,6 +3,7 @@
 
 This project was completed as part of the Junior Data Engineer Programme final project. Using the NHL Game Dataset from Kaggle (20 years of data across 12 CSV files), we designed a scalable data pipeline and built a Power BI dashboard to turn raw match data into practical performance intelligence for hockey stakeholders. 
 
+Complete PBIX for this project can be downloaded **[here – Full Power BI File](https://home.mycloud.com/action/share/bd7eabc8-8993-4ca2-88a1-3118ba681f1f)**.
 #### Premise
 NHL organisers have collected match information over many years and wanted clearer, more usable insight from the dataset—especially in areas related to performance and trends. 
 
